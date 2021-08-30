@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "tic-tac-toe websocket game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "node",
+    "express",
+    "socketio",
+    "node",
+    "js"
+  ],
+  "author": "Artem Bokii",
+  "license": "ISC"
+}
